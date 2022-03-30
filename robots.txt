@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://risingsunpaintingllc.com/sitemap.xml
